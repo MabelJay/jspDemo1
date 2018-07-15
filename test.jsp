@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>test page</title>
+<title>jsp test page</title>
 </head>
 <body>
 ${contact.gender }
